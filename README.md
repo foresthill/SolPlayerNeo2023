@@ -1,6 +1,6 @@
 # solplayerneo2023
 
-A new Flutter project.
+The New(Neo) Version of "SolPlayer" in 2023
 
 ## Getting Started
 
